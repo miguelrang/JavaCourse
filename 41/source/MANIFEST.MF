@@ -1,0 +1,4 @@
+manifiest-version: 1.0
+Created-By: Mike Agr
+Main-Class: App
+X-COMMENT: Practica

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+manifiest-version: 1.0
+X-COMMENT: Practica
+Created-By: Mike Agr
+Main-Class: App
+
